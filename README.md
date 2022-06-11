@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://64.media.tumblr.com/e9405f78dbd574a6b9653a1697fa33d9/tumblr_ppt9btCvVl1wfazcjo1_400.gifv">
+<img align="center" alt="Coding" width="600" src="https://64.media.tumblr.com/e9405f78dbd574a6b9653a1697fa33d9/tumblr_ppt9btCvVl1wfazcjo1_400.gifv">
 
 <h1 align="left">Hi 👋, I'm Nakul Saxena</h1>
 <h3 align="left">A passionate Machine Learning and Augmented Reality Developer from India</h3>
