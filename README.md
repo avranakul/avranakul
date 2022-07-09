@@ -1,10 +1,10 @@
-<img align="center" alt="Coding" width="450" src="https://1.bp.blogspot.com/-JSyhK8tbCfg/XZhO1UW8ZzI/AAAAAAAAAhw/FHyHhxb84o0Kh2ccPeVcSKScva52yb1agCLcBGAsYHQ/s400/tao_musicAI.gif">
+<img align="center" alt="Coding" width="400" src="https://1.bp.blogspot.com/-JSyhK8tbCfg/XZhO1UW8ZzI/AAAAAAAAAhw/FHyHhxb84o0Kh2ccPeVcSKScva52yb1agCLcBGAsYHQ/s400/tao_musicAI.gif">
 
 <h1 align="left">Hi 👋, I'm Nakul Saxena</h1>
 <h3 align="left">A passionate Machine Learning and Augmented Reality Developer from India</h3>
 <p align="left"> <a href="https://twitter.com/avranakul" target="blank"><img src="https://img.shields.io/twitter/follow/avranakul?logo=twitter&style=for-the-badge" alt="avranakul" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/0uISrCKju1kAAAAC/edward-cowboy-bebop.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/0uISrCKju1kAAAAC/edward-cowboy-bebop.gif">
 
 🌱 I’m currently learning **Artificial Intelligence and Extended Reality(XR)**
 
