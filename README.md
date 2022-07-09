@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="600" src="https://1.bp.blogspot.com/-JSyhK8tbCfg/XZhO1UW8ZzI/AAAAAAAAAhw/FHyHhxb84o0Kh2ccPeVcSKScva52yb1agCLcBGAsYHQ/s400/tao_musicAI.gif">
+<img align="center" alt="Coding" width="450" src="https://1.bp.blogspot.com/-JSyhK8tbCfg/XZhO1UW8ZzI/AAAAAAAAAhw/FHyHhxb84o0Kh2ccPeVcSKScva52yb1agCLcBGAsYHQ/s400/tao_musicAI.gif">
 
 <h1 align="left">Hi 👋, I'm Nakul Saxena</h1>
 <h3 align="left">A passionate Machine Learning and Augmented Reality Developer from India</h3>
